@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue" />
-  <img src="https://img.shields.io/badge/OpenCV-4.x-green" />
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange" />
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen" />
-</p>
-
-# Procesamiento de Imágenes en Python 🖼️
-
-> Ejercicios del máster con técnicas prácticas de visión por computadora usando OpenCV, NumPy y otras librerías en Python.
-
 # Procesamiento de Imágenes en Python 🖼️
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/) [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org) [![OpenCV](https://img.shields.io/badge/OpenCV-4.x-green)](https://opencv.org)
