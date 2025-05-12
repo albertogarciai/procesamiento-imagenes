@@ -55,6 +55,20 @@ Se utilizan librerías populares como OpenCV, NumPy, Matplotlib y PIL para el pr
 
 Este proyecto tiene como propósito reforzar los conceptos vistos en clase, facilitando la comprensión de las bases del procesamiento de imágenes. Cada sección cuenta con código comentado que explica el por qué y el para qué de cada técnica aplicada.
 
+
+### 🧪 Comparación visual de resultados
+
+A lo largo del notebook se incluyen comparaciones visuales entre la imagen original y las procesadas, facilitando el análisis del impacto de cada técnica aplicada. Estas visualizaciones paralelas permiten comprender mejor los efectos de umbralización, conversiones de color y operaciones morfológicas.
+
+### 💾 Requisitos mínimos de instalación
+
+Para ejecutar el notebook necesitas tener instaladas las siguientes librerías de Python:
+
+```bash
+pip install opencv-python numpy matplotlib pillow
+```
+
+
 ## 🚀 Futuras extensiones
 
 Entre las extensiones posibles para proyectos más avanzados se encuentran:
